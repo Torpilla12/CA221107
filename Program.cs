@@ -1,3 +1,3 @@
 ﻿string name = "Eszter";
-string[] nevek = { "Anikó", };
+string[] nevek = { "Aniko", };
 Console.WriteLine($"Hello, {name}!");
